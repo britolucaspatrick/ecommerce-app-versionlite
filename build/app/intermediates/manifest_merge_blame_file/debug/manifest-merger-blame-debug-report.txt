@@ -1,0 +1,246 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.insightsoftware.bertonlite"
+4    android:versionCode="4"
+5    android:versionName="beta-1.0.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
+14-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:5:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:5-79
+15-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:25:5-68
+16-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:25:22-65
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+17-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:26:22-107
+18    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+18-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:5-82
+18-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:22-79
+19
+20    <application
+20-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:8:5-29:19
+21        android:name="io.flutter.app.FlutterApplication"
+21-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-57
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\c5e6aefde71a703c3bae4075626ca81e\core-1.0.0\AndroidManifest.xml:22:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:11:9-43
+25        android:label="BertonLite" >
+25-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-35
+26        <activity
+26-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:12:9-23:20
+27            android:name="com.insightsoftware.bertonlite.MainActivity"
+27-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-41
+28            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+28-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-163
+29            android:hardwareAccelerated="true"
+29-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-47
+30            android:launchMode="singleTop"
+30-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-43
+31            android:theme="@style/LaunchTheme"
+31-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
+32            android:windowSoftInputMode="adjustResize" >
+32-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:18:13-55
+33            <intent-filter>
+33-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:19:13-22:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:20:17-68
+34-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:20:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:21:17-76
+36-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:21:27-74
+37            </intent-filter>
+38        </activity>
+39        <!--
+40             Don't delete the meta-data below.
+41             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+42        -->
+43        <meta-data
+43-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:26:9-28:33
+44            android:name="flutterEmbedding"
+44-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:27:13-44
+45            android:value="2" />
+45-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:28:13-30
+46
+47        <service
+47-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+48            android:name="com.google.firebase.components.ComponentDiscoveryService"
+48-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+49            android:directBootAware="true"
+49-->[com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+50            android:exported="false" >
+50-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:29:13-37
+51            <meta-data
+51-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+52                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
+52-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+53                android:value="com.google.firebase.components.ComponentRegistrar" />
+53-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+54            <meta-data
+54-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+55                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
+55-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+57            <meta-data
+57-->[:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+58                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
+58-->[:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+60            <meta-data
+60-->[:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+61                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+61-->[:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+63            <meta-data
+63-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:30:13-32:85
+64                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+64-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:31:17-139
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:32:17-82
+66            <meta-data
+66-->[com.google.firebase:firebase-storage:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\f531873ebf289008465e83650b63f4d5\jetified-firebase-storage-17.0.0\AndroidManifest.xml:31:13-33:85
+67                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+67-->[com.google.firebase:firebase-storage:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\f531873ebf289008465e83650b63f4d5\jetified-firebase-storage-17.0.0\AndroidManifest.xml:32:17-107
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.firebase:firebase-storage:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\f531873ebf289008465e83650b63f4d5\jetified-firebase-storage-17.0.0\AndroidManifest.xml:33:17-82
+69            <meta-data
+69-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\674ae603783d655cf67eec7f5043c515\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:20:13-22:85
+70                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+70-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\674ae603783d655cf67eec7f5043c515\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:21:17-111
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\674ae603783d655cf67eec7f5043c515\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:22:17-82
+72            <meta-data
+72-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:36:13-38:85
+73                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+73-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:37:17-109
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:38:17-82
+75            <meta-data
+75-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:32:13-34:85
+76                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+76-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:33:17-96
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:34:17-82
+78        </service>
+79
+80        <receiver
+80-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:29:9-33:20
+81            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+81-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:30:13-85
+82            android:enabled="true"
+82-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:31:13-35
+83            android:exported="false" >
+83-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:32:13-37
+84        </receiver>
+85        <receiver
+85-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:34:9-42:20
+86            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+86-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:35:13-100
+87            android:enabled="true"
+87-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:36:13-35
+88            android:exported="true"
+88-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:37:13-36
+89            android:permission="android.permission.INSTALL_PACKAGES" >
+89-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:38:13-69
+90            <intent-filter>
+90-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:39:13-41:29
+91                <action android:name="com.android.vending.INSTALL_REFERRER" />
+91-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:40:17-79
+91-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:40:25-76
+92            </intent-filter>
+93        </receiver>
+94
+95        <service
+95-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:44:9-47:40
+96            android:name="com.google.android.gms.measurement.AppMeasurementService"
+96-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:45:13-84
+97            android:enabled="true"
+97-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:46:13-35
+98            android:exported="false" />
+98-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:47:13-37
+99        <service
+99-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:48:9-52:72
+100            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+100-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:49:13-87
+101            android:enabled="true"
+101-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:50:13-35
+102            android:exported="false"
+102-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:51:13-37
+103            android:permission="android.permission.BIND_JOB_SERVICE" />
+103-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:52:13-69
+104
+105        <activity
+105-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:24:9-31:50
+106            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+106-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:25:13-85
+107            android:excludeFromRecents="true"
+107-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:26:13-46
+108            android:exported="true"
+108-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:27:13-36
+109            android:launchMode="singleTask"
+109-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:28:13-44
+110            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+110-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:29:13-102
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+111-->[com.google.firebase:firebase-auth:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\bd19d5c93479c3cf6fa7985978f313cd\jetified-firebase-auth-17.0.0\AndroidManifest.xml:30:13-72
+112
+113        <receiver
+113-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:37:9-44:20
+114            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+114-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:38:13-78
+115            android:exported="true"
+115-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:39:13-36
+116            android:permission="com.google.android.c2dm.permission.SEND" >
+116-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:40:13-73
+117            <intent-filter>
+117-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:41:13-43:29
+118                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+118-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:17-81
+118-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:25-78
+119            </intent-filter>
+120        </receiver>
+121
+122        <provider
+122-->[com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+123            android:name="com.google.firebase.provider.FirebaseInitProvider"
+123-->[com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+124            android:authorities="com.insightsoftware.bertonlite.firebaseinitprovider"
+124-->[com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+125            android:exported="false"
+125-->[com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+126            android:initOrder="100" />
+126-->[com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+127
+128        <activity
+128-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\3ab11276071edadf925fd101e09352ce\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+129            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+129-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\3ab11276071edadf925fd101e09352ce\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+130            android:exported="false"
+130-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\3ab11276071edadf925fd101e09352ce\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+131-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\3ab11276071edadf925fd101e09352ce\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+132
+133        <meta-data
+133-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a82b0dc570fee32d3410f74daa6138a5\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+134            android:name="com.google.android.gms.version"
+134-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a82b0dc570fee32d3410f74daa6138a5\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+135            android:value="@integer/google_play_services_version" />
+135-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a82b0dc570fee32d3410f74daa6138a5\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+136    </application>
+137
+138</manifest>

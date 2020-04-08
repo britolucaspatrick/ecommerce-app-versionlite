@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_storage\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\2fde5b2c9e290bab8d8038fd489af2ce\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_storage\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\2fde5b2c9e290bab8d8038fd489af2ce\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_storage\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\2fde5b2c9e290bab8d8038fd489af2ce\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]
