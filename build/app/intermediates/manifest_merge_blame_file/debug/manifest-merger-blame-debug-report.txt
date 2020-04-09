@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
-14-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:5:22-64
+14-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
+14-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 15-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:5-79
 15-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:22-76
@@ -28,39 +28,39 @@
 18-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:22-79
 19
 20    <application
-20-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:8:5-29:19
+20-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:8:5-29:19
 21        android:name="io.flutter.app.FlutterApplication"
-21-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-57
+21-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-57
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\c5e6aefde71a703c3bae4075626ca81e\core-1.0.0\AndroidManifest.xml:22:18-86
 23        android:debuggable="true"
 24        android:icon="@mipmap/ic_launcher"
-24-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:11:9-43
+24-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:11:9-43
 25        android:label="BertonLite" >
-25-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-35
+25-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-35
 26        <activity
-26-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:12:9-23:20
+26-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:12:9-23:20
 27            android:name="com.insightsoftware.bertonlite.MainActivity"
-27-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-41
+27-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-41
 28            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-28-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-163
+28-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-163
 29            android:hardwareAccelerated="true"
-29-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-47
+29-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-47
 30            android:launchMode="singleTop"
-30-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-43
+30-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-43
 31            android:theme="@style/LaunchTheme"
-31-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
+31-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
 32            android:windowSoftInputMode="adjustResize" >
-32-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:18:13-55
+32-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:13-55
 33            <intent-filter>
-33-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:19:13-22:29
+33-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:13-22:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:20:17-68
-34-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:20:25-66
+34-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:17-68
+34-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:21:17-76
-36-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:21:27-74
+36-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:17-76
+36-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:27-74
 37            </intent-filter>
 38        </activity>
 39        <!--
@@ -68,44 +68,44 @@
 41             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 42        -->
 43        <meta-data
-43-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:26:9-28:33
+43-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:26:9-28:33
 44            android:name="flutterEmbedding"
-44-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:27:13-44
+44-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:27:13-44
 45            android:value="2" />
-45-->C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:28:13-30
+45-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:28:13-30
 46
 47        <service
-47-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+47-->[:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 48            android:name="com.google.firebase.components.ComponentDiscoveryService"
-48-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+48-->[:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 49            android:directBootAware="true"
 49-->[com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 50            android:exported="false" >
 50-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:29:13-37
 51            <meta-data
-51-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+51-->[:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 52                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-52-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+52-->[:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
 53                android:value="com.google.firebase.components.ComponentRegistrar" />
-53-->[:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+53-->[:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 54            <meta-data
-54-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+54-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 55                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-55-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+55-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
 56                android:value="com.google.firebase.components.ComponentRegistrar" />
-56-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+56-->[:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 57            <meta-data
-57-->[:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+57-->[:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 58                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-58-->[:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+58-->[:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
 59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+59-->[:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 60            <meta-data
-60-->[:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+60-->[:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 61                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-61-->[:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+61-->[:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
 62                android:value="com.google.firebase.components.ComponentRegistrar" />
-62-->[:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+62-->[:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 63            <meta-data
 63-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:30:13-32:85
 64                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"

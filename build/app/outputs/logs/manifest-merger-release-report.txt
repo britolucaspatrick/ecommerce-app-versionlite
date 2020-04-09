@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\2b4500f001017c5042610a09c2983635\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:2:1-9:12
-MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider_macos] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\path_provider_macos\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:flutter_money_formatter] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\flutter_money_formatter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences_macos] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\patri\Documents\GitHub\bertonlite\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_macos] C:\Users\patri\Documents\GitHub\bertonlite\build\path_provider_macos\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_money_formatter] C:\Users\patri\Documents\GitHub\bertonlite\build\flutter_money_formatter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a14199748f3fee8058fe1d9eca2cce09\jetified-play-services-measurement-sdk-17.2.2\AndroidManifest.xml:17:1-25:12
@@ -64,25 +64,25 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\patri\.gradle\
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\98248b6e618410ce3df0858f40adc58c\jetified-grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\ba04297bb573efde9a05330778fd4e6e\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\17c9a0fa0e90d81019213a933afb6d7b\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
 	package
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:2:5-45
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:22:5-67
@@ -98,19 +98,19 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\474e5c2c49e192373ec40554b5b5eb0e\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\474e5c2c49e192373ec40554b5b5eb0e\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:8:5-29:19
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:8:5-29:19
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\2b4500f001017c5042610a09c2983635\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\2b4500f001017c5042610a09c2983635\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:7:5-20
-MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:26:5-34:19
@@ -154,71 +154,71 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\pa
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\c5e6aefde71a703c3bae4075626ca81e\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-35
 	android:icon
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:11:9-43
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-57
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-57
 activity#com.insightsoftware.bertonlite.MainActivity
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:12:9-23:20
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:12:9-23:20
 	android:launchMode
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-43
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-47
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:18:13-55
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:13-55
 	android:configChanges
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-163
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-163
 	android:theme
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:19:13-22:29
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:20:17-68
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:17-68
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:21:17-76
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:17-76
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:27-74
 meta-data#flutterEmbedding
-ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:26:9-28:33
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:26:9-28:33
 	android:value
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:28:13-30
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:28:13-30
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml:27:13-44
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:27:13-44
 uses-sdk
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\2b4500f001017c5042610a09c2983635\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\2b4500f001017c5042610a09c2983635\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_macos] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\path_provider_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_macos] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\path_provider_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_money_formatter] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\flutter_money_formatter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_money_formatter] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\flutter_money_formatter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_web] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_macos] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_macos] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\patri\Documents\GitHub\bertonlite\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\patri\Documents\GitHub\bertonlite\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] C:\Users\patri\Documents\GitHub\bertonlite\build\path_provider_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] C:\Users\patri\Documents\GitHub\bertonlite\build\path_provider_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_money_formatter] C:\Users\patri\Documents\GitHub\bertonlite\build\flutter_money_formatter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_money_formatter] C:\Users\patri\Documents\GitHub\bertonlite\build\flutter_money_formatter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] C:\Users\patri\Documents\GitHub\bertonlite\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:20:5-44
@@ -313,24 +313,24 @@ MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\p
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\ba04297bb573efde9a05330778fd4e6e\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\17c9a0fa0e90d81019213a933afb6d7b\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\17c9a0fa0e90d81019213a933afb6d7b\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\f531873ebf289008465e83650b63f4d5\jetified-firebase-storage-17.0.0\AndroidManifest.xml:30:9-34:19
@@ -350,31 +350,31 @@ MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\69ebba4a324db66afa591699c35db4c1\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+		ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
+		ADDED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
-ADDED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-133
+		ADDED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-133
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-122
+		ADDED from [:firebase_auth] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-122
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] C:\Users\patri\Documents\GitHub\RestaurantAppUIKit\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-123
+		ADDED from [:firebase_core] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-123
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:23:5-79

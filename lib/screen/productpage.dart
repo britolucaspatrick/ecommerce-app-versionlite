@@ -52,7 +52,7 @@ class _ProductPageState extends State<ProductPage> {
                           padding: EdgeInsets.only(top: 100, bottom: 50),
                           width: MediaQuery.of(context).size.width * 0.85,
                           child: Column(
-                          mainAxisAlignment: MainAxisAlignment.start,
+                            mainAxisAlignment: MainAxisAlignment.start,
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: <Widget>[
                               Padding(
@@ -67,10 +67,15 @@ class _ProductPageState extends State<ProductPage> {
                                   textAlign: TextAlign.center,
                                 ),
                               ),
-                              Text(r'R$ ' + widget.productData.vl_unitario.toString().replaceAll('.', ','), style: TextStyle(
-                                  color: Colors.black,
-                                  fontSize: 24,
-                                  fontWeight: FontWeight.w800),
+                              Text(widget.productData.qt_estoque > 0 ?
+                              r'R$ ' + widget.productData.vl_unitario.toString().replaceAll('.', ',') :
+                              'Indisponível',
+                                style: TextStyle(
+                                    color: widget.productData.qt_estoque > 0 ?
+                                    Colors.black :
+                                    Colors.red,
+                                    fontSize: 24,
+                                    fontWeight: FontWeight.w800),
                               ),
                               Container(
                                 margin: EdgeInsets.only(top: 10, bottom: 25),
@@ -128,6 +133,8 @@ class _ProductPageState extends State<ProductPage> {
                               Container(
                                 width: 180,
                                 child: froyoFlatBtn('Adicionar no carrinho', () {
+                                  if (widget.productData.qt_estoque == 0)
+                                    return false;
                                   try{
                                     CarrinhoBusiness.postNewProductCarrinho(
                                         prodID: widget.productData.documentID,
@@ -144,7 +151,7 @@ class _ProductPageState extends State<ProductPage> {
                               Container(
                                 width: 180,
                                 child: froyoOutlineBtn('Voltar ao menu', () {
-                                    Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => SearchScreen()));
+                                  Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => SearchScreen()));
                                 }),
                               ),
                             ],

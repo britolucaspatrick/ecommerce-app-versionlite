@@ -30,6 +30,7 @@ class _EnderecoState extends State<Endereco>  {
   TextEditingController com = new TextEditingController();
   TextEditingController nome = new TextEditingController();
   TextEditingController telefone = new MaskedTextController(mask: '(00) 0 0000-0000',);
+  TextEditingController hora = new MaskedTextController(mask: '00:00',);
   FirebaseUser user;
 
   @override
@@ -92,6 +93,7 @@ class _EnderecoState extends State<Endereco>  {
             EntryField(title: 'Bairro', controller: bai,),
             EntryField(title: 'Número', controller: num,),
             EntryField(title: 'Complemento', controller: com, validator: false,),
+            EntryField(title: 'Melhor horário para entregar', controller: hora, keyboardType: TextInputType.number),
 
             _submitButton()
           ],
@@ -106,7 +108,7 @@ class _EnderecoState extends State<Endereco>  {
         if (_formKey.currentState.validate()){
           PedidoBusiness.post(widget.carrFinal);
           Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => SearchScreen()));
-          Alert.showAlertDialog(context, 'Pedido gerado com sucesso', 2);
+          Alert.showAlertDialog(context, 'Pedido gerado com sucesso, entraremos em contato pelo WhatsApp, obrigado!', 2);
         }
       },
       child: Container(

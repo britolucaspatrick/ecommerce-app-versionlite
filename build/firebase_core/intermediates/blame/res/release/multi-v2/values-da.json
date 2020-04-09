@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-da\\values-da.xml",
+            "outputFile": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-da\\values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\5b55650cad4183afde4f4b6937380c0f\\jetified-play-services-basement-16.0.1\\res\\values-da\\values.xml",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-da\\values-da.xml",
+            "outputFile": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-da\\values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\5b55650cad4183afde4f4b6937380c0f\\jetified-play-services-basement-16.0.1\\res\\values-da\\values.xml",

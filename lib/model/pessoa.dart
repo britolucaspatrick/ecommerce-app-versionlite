@@ -13,6 +13,7 @@ class Pessoa {
   String url_perfil;
   String telefone;
   String userID;
+  String horaEntrega;
 
   Pessoa({
     this.nome = '',
@@ -26,7 +27,8 @@ class Pessoa {
     this.cep = '',
     this.url_perfil = '',
     this.telefone = '',
-    this.userID = ''
+    this.userID = '',
+    this.horaEntrega
   });
 
   Map<String, Object> toJson() {
@@ -43,6 +45,7 @@ class Pessoa {
       'url_perfil': url_perfil,
       'telefone': telefone,
       'userID': userID,
+      'horaEntrega': horaEntrega,
     };
   }
 
@@ -60,6 +63,7 @@ class Pessoa {
       url_perfil: doc['url_perfil'],
       telefone: doc['telefone'],
       userID: doc['userID'],
+      horaEntrega: doc['horaEntrega'],
     );
     return pessoa;
   }

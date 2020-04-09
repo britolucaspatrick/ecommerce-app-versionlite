@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\c5e6aefde71a703c3bae4075626ca81e\\core-1.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\c5e6aefde71a703c3bae4075626ca81e\\core-1.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "merged": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\c5e6aefde71a703c3bae4075626ca81e\\core-1.0.0\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\c5e6aefde71a703c3bae4075626ca81e\\core-1.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\c5e6aefde71a703c3bae4075626ca81e\\core-1.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\c5e6aefde71a703c3bae4075626ca81e\\core-1.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

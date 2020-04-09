@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,306,388,492,601,721,817",
+                        "endColumns": "143,106,81,103,108,119,95,72",
+                        "endOffsets": "194,301,383,487,596,716,812,885"
+                    },
+                    "to": {
+                        "startLines": "67,68,69,70,71,72,73,74",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "5528,5672,5779,5861,5965,6074,6194,6290",
+                        "endColumns": "143,106,81,103,108,119,95,72",
+                        "endOffsets": "5667,5774,5856,5960,6069,6189,6285,6358"
+                    }
+                },
                 {
                     "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-2\\files-2.1\\c5e6aefde71a703c3bae4075626ca81e\\core-1.0.0\\res\\values\\values.xml",
                     "from": {
@@ -23,20 +40,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\patri\\Documents\\GitHub\\bertonlite\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,306,388,492,601,721,817",
-                        "endColumns": "143,106,81,103,108,119,95,72",
-                        "endOffsets": "194,301,383,487,596,716,812,885"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
                     },
                     "to": {
-                        "startLines": "67,68,69,70,71,72,73,74",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "5528,5672,5779,5861,5965,6074,6194,6290",
-                        "endColumns": "143,106,81,103,108,119,95,72",
-                        "endOffsets": "5667,5774,5856,5960,6069,6189,6285,6358"
+                        "startLines": "76",
+                        "startColumns": "4",
+                        "startOffsets": "6434",
+                        "endLines": "80",
+                        "endColumns": "12",
+                        "endOffsets": "6726"
                     }
                 },
                 {
@@ -92,25 +111,6 @@
                         "endLines": "2,96,113,202",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "161,7768,8674,13885"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\patri\\Documents\\GitHub\\RestaurantAppUIKit\\bertonlite\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "76",
-                        "startColumns": "4",
-                        "startOffsets": "6434",
-                        "endLines": "80",
-                        "endColumns": "12",
-                        "endOffsets": "6726"
                     }
                 }
             ]

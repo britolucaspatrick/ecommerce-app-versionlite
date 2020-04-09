@@ -52,6 +52,7 @@ class _CartScreenState extends State<CartScreen> with AutomaticKeepAliveClientMi
         ),
       ),
       body: Container(
+        padding: EdgeInsets.only(bottom: 130),
         child: ListView(
           children: <Widget>[
             Column(
@@ -60,11 +61,11 @@ class _CartScreenState extends State<CartScreen> with AutomaticKeepAliveClientMi
               children: <Widget>[
                 if (prodCar.length > 0)
                   ListView.builder(
-                    shrinkWrap: true,
                     primary: false,
+                    shrinkWrap: true,
                     physics: NeverScrollableScrollPhysics(),
                     itemCount: prodCar.length,
-                    itemBuilder: (BuildContext context, int index) => Column(
+                    itemBuilder: (BuildContext context, int index) => Column (
                       children: <Widget>[
                         Divider(height: 10, indent: 70, endIndent: 15,),
                         ListTile(
@@ -168,7 +169,7 @@ class _CartScreenState extends State<CartScreen> with AutomaticKeepAliveClientMi
                     ),
                   )
                 else
-                  NoData(labelText: 'Nenhum produto foi adicionado')
+                  NoData(labelText: 'Nenhum produto foi adicionado'),
 
               ],
             ),
@@ -176,11 +177,10 @@ class _CartScreenState extends State<CartScreen> with AutomaticKeepAliveClientMi
         )
       ),
 
-      floatingActionButton: _submitButton(),
-      bottomNavigationBar: Card(
+      bottomSheet: Card(
         elevation: 4.0,
         child: Container(
-
+          height: 127,
           child: ListView(
             physics: NeverScrollableScrollPhysics(),
             children: <Widget>[
@@ -223,13 +223,11 @@ class _CartScreenState extends State<CartScreen> with AutomaticKeepAliveClientMi
                   ),
                 ),
               ),
-
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: <Widget>[
-
                   Padding(
-                    padding: EdgeInsets.fromLTRB(10,5,5,5),
+                    padding: EdgeInsets.only(left: 5, right: 5),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
@@ -241,7 +239,7 @@ class _CartScreenState extends State<CartScreen> with AutomaticKeepAliveClientMi
                           ),
                         ),
                         Text(
-                            "R\u0024 ${Functions.formatDoubleToMoney(total)} ",
+                          "R\u0024 ${Functions.formatDoubleToMoney(total)} ",
                           style: TextStyle(
                             fontSize: 20,
                             fontWeight: FontWeight.w900,
@@ -251,12 +249,13 @@ class _CartScreenState extends State<CartScreen> with AutomaticKeepAliveClientMi
                       ],
                     ),
                   ),
+
+                  _submitButton()
                 ],
               ),
 
             ],
           ),
-          height: 120,
         ),
       ),
     );
