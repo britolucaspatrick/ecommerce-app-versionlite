@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
-MERGED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-28:12
 MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:cloud_firestore_web] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
@@ -74,18 +74,18 @@ INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\debug\A
 		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-28:12
 		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:1-28:12
 		INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
-MERGED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
-MERGED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:4:5-66
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\9a41aeeba5c5515848b3b346f642f72f\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:22:5-67
@@ -101,9 +101,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\474e5c2c49e192373ec40554b5b5eb0e\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\474e5c2c49e192373ec40554b5b5eb0e\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:8:5-29:19
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:6:5-27:19
 MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:cloud_firestore] C:\Users\patri\Documents\GitHub\bertonlite\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
@@ -157,41 +157,41 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\pa
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\c5e6aefde71a703c3bae4075626ca81e\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:8:9-42
 	android:icon
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-43
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-57
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:7:9-57
 activity#com.insightsoftware.bertonlite.MainActivity
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:12:9-23:20
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-21:20
 	android:launchMode
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-43
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:12:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-47
-	android:windowSoftInputMode
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:13-55
-	android:configChanges
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-163
-	android:theme
 		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-55
+	android:configChanges
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-163
+	android:theme
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-47
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:11:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:13-22:29
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:17-68
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:17-68
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:17-76
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:27-74
 meta-data#flutterEmbedding
-ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:26:9-28:33
+ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:24:9-26:33
 	android:value
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:28:13-30
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:26:13-30
 	android:name
-		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:27:13-44
+		ADDED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:25:13-44
 uses-sdk
 INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml

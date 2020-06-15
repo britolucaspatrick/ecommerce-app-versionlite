@@ -17,13 +17,10 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    nameList.add('Berton');
-    nameList.add('Alimentos');
-    nameList.add('Qualidade');
-    nameList.add('Garantia');
-    nameList.add('Agilidade');
-
-
+    nameList.add('Sua MARCA');
+    nameList.add('Seus VALORES');
+    nameList.add('Sua MISSÃO');
+    nameList.add('Sua VISÃO');
 
     SystemChrome.setEnabledSystemUIOverlays([]);
     Future.delayed(Duration(seconds: 7), changeScreen);

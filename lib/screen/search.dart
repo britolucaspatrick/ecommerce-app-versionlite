@@ -45,7 +45,7 @@ class _SearchScreenState extends State<SearchScreen> with AutomaticKeepAliveClie
     return Scaffold(
         appBar: AppBar(
           title: Text(
-            'Berton Alimentos',
+            'Sua MARCA',
             style: TextStyle(
               color: Colors.black54,
               fontFamily: "Poppins",
@@ -59,7 +59,6 @@ class _SearchScreenState extends State<SearchScreen> with AutomaticKeepAliveClie
               icon: Icon(Icons.person, color: Colors.black45,)
           ),
           actions: <Widget>[
-
             GestureDetector(
               onTap: () {
                 setState(() {
@@ -99,6 +98,18 @@ class _SearchScreenState extends State<SearchScreen> with AutomaticKeepAliveClie
               child: Padding(
                   padding: EdgeInsets.only(right: 10),
                   child: Icon(Icons.shopping_cart, color: Colors.black45,)
+              ),
+            ),
+
+            GestureDetector(
+              onTap: () {
+                Alert.showAlertDialog(context, 'Esse aplicativo é um demonstrativo, '
+                    'serve de exemplo de como seria a venda e logística dos seus produtos. '
+                    'Contate o fornecedor do sistema, faça um orçamento e comece a vender seus produtos na sua região com seu aplicativo.', 2);
+              },
+              child: Padding(
+                  padding: EdgeInsets.only(right: 10),
+                  child: Icon(Icons.info_outline, color: Colors.black45,)
               ),
             ),
           ],

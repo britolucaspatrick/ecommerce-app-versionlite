@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.insightsoftware.bertonlite"
-4    android:versionCode="4"
-5    android:versionName="beta-1.0.4" >
+4    android:versionCode="5"
+5    android:versionName="beta-1.0.5" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
@@ -11,8 +11,8 @@
 9-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:5-66
-11-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:4:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 12-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:5-79
 12-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\288f976fdd5d38a5c9f3c7de3d1f6d8e\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:22-76
@@ -27,38 +27,38 @@
 15-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\a90f01df3a93462548004e55f85a092b\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:22-79
 16
 17    <application
-17-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:8:5-29:19
+17-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:6:5-27:19
 18        android:name="io.flutter.app.FlutterApplication"
-18-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-57
+18-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:7:9-57
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.0.0] C:\Users\patri\.gradle\caches\transforms-2\files-2.1\c5e6aefde71a703c3bae4075626ca81e\core-1.0.0\AndroidManifest.xml:22:18-86
 20        android:icon="@mipmap/ic_launcher"
-20-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:11:9-43
-21        android:label="BertonLite" >
-21-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-35
+20-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:9:9-43
+21        android:label="Venda seu produto" >
+21-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:8:9-42
 22        <activity
-22-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:12:9-23:20
+22-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:10:9-21:20
 23            android:name="com.insightsoftware.bertonlite.MainActivity"
-23-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-41
+23-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:11:13-41
 24            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-24-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-163
+24-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-163
 25            android:hardwareAccelerated="true"
-25-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-47
+25-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
 26            android:launchMode="singleTop"
-26-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:14:13-43
+26-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:12:13-43
 27            android:theme="@style/LaunchTheme"
-27-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:15:13-47
+27-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:13:13-47
 28            android:windowSoftInputMode="adjustResize" >
-28-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:13-55
+28-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:16:13-55
 29            <intent-filter>
-29-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:13-22:29
+29-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:17:13-20:29
 30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:17-68
-30-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:20:25-66
+30-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:17-68
+30-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:18:25-66
 31
 32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:17-76
-32-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:21:27-74
+32-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:17-76
+32-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:19:27-74
 33            </intent-filter>
 34        </activity>
 35        <!--
@@ -66,11 +66,11 @@
 37             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 38        -->
 39        <meta-data
-39-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:26:9-28:33
+39-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:24:9-26:33
 40            android:name="flutterEmbedding"
-40-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:27:13-44
+40-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:25:13-44
 41            android:value="2" />
-41-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:28:13-30
+41-->C:\Users\patri\Documents\GitHub\bertonlite\android\app\src\main\AndroidManifest.xml:26:13-30
 42
 43        <service
 43-->[:firebase_storage] C:\Users\patri\Documents\GitHub\bertonlite\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19

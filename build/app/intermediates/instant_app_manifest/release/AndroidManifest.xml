@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.insightsoftware.bertonlite"
     android:targetSandboxVersion="2"
-    android:versionCode="4"
-    android:versionName="beta-1.0.4" >
+    android:versionCode="5"
+    android:versionName="beta-1.0.5" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -19,7 +19,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
-        android:label="BertonLite" >
+        android:label="Venda seu produto" >
         <activity
             android:name="com.insightsoftware.bertonlite.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

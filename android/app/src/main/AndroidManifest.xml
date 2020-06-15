@@ -1,13 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.insightsoftware.bertonlite">
 
-
     <uses-permission android:name="android.permission.INTERNET"/>
-
 
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="BertonLite"
+        android:label="Venda seu produto"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -18,31 +18,33 @@ class Alert {
                 width: 250,
                 child: Card(
                   elevation: 0,
-                  child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    crossAxisAlignment: CrossAxisAlignment.center,
+                  child: ListView(
                     children: <Widget>[
-                      Image.asset(
-                        code == 0 ? 'assets/cancel.png' :
-                        code == 1 ? 'assets/tick.png' :
-                        code == 2 ? 'assets/info.png' :
-                        'assets/question.png',
-                        width: 90, height: 90, ),
-                      SizedBox(width: 10, height: 10,),
-                      Padding(
-                        padding: EdgeInsets.only(right: 15, left: 15),
-                        child: Text(msg,
-                            textAlign: TextAlign.center,
-                            style: TextStyle(
-                                color:
-                                code == 0 ? Colors.red :
-                                code == 1 ? Colors.green :
-                                code == 2 ? Colors.blue :
-                                Colors.blue,
-                                fontSize: 15)
-                        ),
-                      ),
-                      code == 3 ?
+                      Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        crossAxisAlignment: CrossAxisAlignment.center,
+                        children: <Widget>[
+                          Image.asset(
+                            code == 0 ? 'assets/cancel.png' :
+                            code == 1 ? 'assets/tick.png' :
+                            code == 2 ? 'assets/info.png' :
+                            'assets/question.png',
+                            width: 90, height: 90, ),
+                          SizedBox(width: 10, height: 10,),
+                          Padding(
+                            padding: EdgeInsets.only(right: 15, left: 15),
+                            child: Text(msg,
+                                textAlign: TextAlign.center,
+                                style: TextStyle(
+                                    color:
+                                    code == 0 ? Colors.red :
+                                    code == 1 ? Colors.green :
+                                    code == 2 ? Colors.blue :
+                                    Colors.blue,
+                                    fontSize: 15)
+                            ),
+                          ),
+                          code == 3 ?
                           Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: <Widget>[
@@ -86,21 +88,23 @@ class Alert {
                               )
                             ],
                           ) :
-                      FlatButton(
-                        child: Text("OK",
-                            style: TextStyle(
-                                color:
-                                code == 0 ? Colors.red :
-                                code == 1 ? Colors.green :
-                                code == 2 ? Colors.blue :
-                                Colors.blue,
-                                fontSize: 15)),
-                        onPressed: () {
-                          Navigator.pop(context);
-                        },
-                      )
+                          FlatButton(
+                            child: Text("OK",
+                                style: TextStyle(
+                                    color:
+                                    code == 0 ? Colors.red :
+                                    code == 1 ? Colors.green :
+                                    code == 2 ? Colors.blue :
+                                    Colors.blue,
+                                    fontSize: 15)),
+                            onPressed: () {
+                              Navigator.pop(context);
+                            },
+                          )
+                        ],
+                      ),
                     ],
-                  ),
+                  )
                 )
             ),
           );
